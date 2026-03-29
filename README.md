@@ -48,4 +48,6 @@ Revenue shows a slight upward trend over time.
 
 This project demonstrates how Power BI dashboards can transform financial data into meaningful insights, enabling businesses to better monitor performance, manage costs, and identify profitable opportunities.
 
-**Dashboard** ![Dashboard Preview](https://github.com/Ramakant118/Power-BI-Financials-Performance-Big-dataset/blob/main/Dashboard%201.png)
+**Dashboard** 
+
+![Dashboard Preview](https://github.com/Ramakant118/Power-BI-Financials-Performance-Big-dataset/blob/main/Dashboard%201.png)
